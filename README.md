@@ -15,7 +15,7 @@ www.linkedin.com/in/jonathan-rodrigues-306ba53b4
 - Python
 - HTML5
 - CSS3
-- Suporte Técnico em Hardware
+- Suporte técnico em Hardware
 - Montagem e manutenção de computadores
 - Diagnóstico de problemas
 - Configuração de sistemas
