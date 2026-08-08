@@ -1,6 +1,6 @@
 
 ### **Sobre mim**  
-Desenvolvedor Full-Stack em aprendizado.
+Focado em me tornar um desenvolvedor Full-Stack, em aprendizado.
 
 Atualmente atuo como estagiário de TI, com experiência em manutenção, configuração e diagnóstico de computadores. Tenho grande interesse por infraestrutura de redes, desenvolvimento front-end e desenvolvimento back-end, buscando criar aplicações modernas, eficientes e bem estruturadas. Estou constantemente aprimorando meus conhecimentos em HTML5, CSS3, JavaScript, Python e outras tecnologias do ecossistema web, sempre focado em desenvolver soluções práticas e aprender novas ferramentas. Além disso, sou apaixonado por hardware, com interesse em montagem, otimização e desempenho de computadores. Buscando aplicar os meus conhecimentos em novos projetos e evoluindo continuamente na área de tecnologia.
 
